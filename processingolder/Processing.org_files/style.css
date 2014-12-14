@@ -228,24 +228,6 @@ a.large-link:before {
 	background-image: linear-gradient(transparent, transparent), url(../Processing.org_files/processing-logo.svg);
 }
 
-/*bh for header*/
-#headersvg {
-
-}
-
-#headertext {
-
-	font-family: 'theSerif', 'Enriqueta', georgia, times, serif;
-	font-weight: normal;
-	font-style: normal;
-	font-size: 40px;
-
-}
-
-/*End of bh for header*/
-
-
-
 #header-f .processing-logo {
 	width: 206px;
 	height: 38px;
